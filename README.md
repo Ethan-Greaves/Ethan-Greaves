@@ -2,9 +2,9 @@
 
 ![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=portfolio&style=flat-square&up_color=lime-green&up_message=online&url=https://www.ethangreaves.co.uk/)
 
-## About me 👾
-Currently working as web developer for Grit Digital with over 2 years of experience. <br />
-Interested in front-end development and improving my skills as a developer <br />
+## About me 👨‍💻
+- Currently working as Web Developer for Grit Digital with over 2 years of experience. <br />
+- Interested in front-end development and continuously improving my skills <br />
 
 
 ## Currently Working On 🕵️‍♂️
