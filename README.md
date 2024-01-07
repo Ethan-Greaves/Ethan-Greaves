@@ -12,7 +12,7 @@
 
 ### Socials, feel free to message me:
 
-<a href="https://www.linkedin.com/in/ethan-greaves-b39504178/"><img align="left" alt="Ethan Greaves LinkedIn" width="200px" src="https://github.com/Ethan-Greaves/Ethan-Greaves/blob/master/Linkedin-icon.png" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/ethan-greaves-b39504178/"><img align="left" alt="Ethan Greaves LinkedIn" width="200px" src="https://github.com/Ethan-Greaves/Ethan-Greaves/blob/master/Linkedin-icon.png" /></a>
 
 <br />
 <br />
